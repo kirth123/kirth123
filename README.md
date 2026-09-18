@@ -1,6 +1,6 @@
 # Hi, I'm Kirthan Reddy 👋
 
-Software Engineer building backend and full-stack applications.
+Software Engineer building full-stack applications.
 
 [LinkedIn](https://linkedin.com/in/kirthanreddy)
 
