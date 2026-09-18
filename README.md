@@ -8,11 +8,7 @@ Software Engineer building full-stack applications.
 
 I'm a Software Engineer interested in building reliable backend systems and full-stack applications.
 
-I enjoy working across the stack, from designing APIs and working with databases to building user-facing applications and cloud-based services.
-
-* 🎓 M.S. Computer Science — New York University
-* 🎓 B.S. Biology — Penn State University
-* 🤖 Exploring ML/AI topics such as recommender systems and classification
+I enjoy working across the stack, from designing APIs and working with databases to building user-facing applications and cloud-based services. I'm currently interested in exploring ML/AI and how they can make the world a better place.
 
 ## 🛠️ Technologies
 
@@ -75,16 +71,6 @@ M.S. Computer Science · 2024
 
 **Pennsylvania State University**
 B.S. Biology · 2022
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirth123&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirth123&hide_border=true" />
-</p>
 
 ---
 
